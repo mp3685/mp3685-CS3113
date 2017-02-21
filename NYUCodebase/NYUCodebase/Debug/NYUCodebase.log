@@ -1,0 +1,10 @@
+﻿  Sprite.cpp
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\sprite.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\sprite.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\sprite.cpp(198): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\sprite.cpp(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\sprite.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\sprite.cpp(227): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\sprite.cpp(228): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb (Full PDB)
