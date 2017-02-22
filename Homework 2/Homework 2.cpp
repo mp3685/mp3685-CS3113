@@ -235,11 +235,11 @@ void ProcessEvents(SDL_Event& event, bool& done, bool& start, Player& p1, Player
 void Update(float& speed, float& elapsed, float& directionX, float& directionY, Ball& ball, BackgroundTopBottom& top, BackgroundTopBottom& bottom, Player& p1, Player& p2, bool& start, bool& win, float& lastFrameTicks, float& ticks) {
 	speed += elapsed / 7.5;
 
-	if (abs(((ball.y + (ball.height / 2)) - (top.position - (top.height / 2)))) < 0.025f) {
+	if ((ball.y + (ball.height / 2)) > (top.position - (top.height / 2))) {
 		directionY *= -1;
 	}
 
-	if (abs((ball.y - (ball.height / 2)) - (bottom.position + (bottom.height / 2))) < 0.025f) {
+	if ((ball.y - (ball.height / 2)) < (bottom.position + (bottom.height / 2))) {
 		directionY *= -1;
 	}
 
