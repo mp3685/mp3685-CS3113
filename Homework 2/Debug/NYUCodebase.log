@@ -1,0 +1,17 @@
+﻿  Homework 2.cpp
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(167): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(242): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(287): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(293): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(304): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(305): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(328): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(338): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(397): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(449): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 2.cpp(450): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb (Full PDB)
