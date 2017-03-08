@@ -1,0 +1,4 @@
+﻿  Homework 3.cpp
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 3.cpp(138): warning C4305: 'initializing': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb (Full PDB)
