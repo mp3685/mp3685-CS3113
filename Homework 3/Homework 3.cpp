@@ -1,4 +1,15 @@
-﻿#ifdef _WINDOWS
+﻿/*
+Name: Matthew Persad
+NetID: mp3685
+Homework #3
+
+In this project, you can play one level of space invaders. 
+You shoot by pressing the return key, and you move by pressing 'A' for left, and 'D' for right.
+If the aliens get too close to the player, it is an instant game over, and the screen prompts the words "Space Invaders".
+Instead, if the player kills all of the aliens, then the player wins, and the screen prompts the words "Space Invaders".
+*/
+
+#ifdef _WINDOWS
 #include <GL/glew.h>
 #endif
 #include <SDL.h>
@@ -331,11 +342,12 @@ bool e_left = false;
 bool e_right = true;
 int num = 1;
 int restart;
+int death = 0;
 
 void UpdateGameLevel(float elapsed) {
 	restart = 0;
-	if (left && player.position.x >= -0.85f) { player.position.x -= elapsed*0.5f; } //
-	else if (right && player.position.x <= 0.85f) { player.position.x += elapsed*0.5f; } //
+	if (left && player.position.x >= -0.85f) { player.position.x -= elapsed*0.5f; }
+	else if (right && player.position.x <= 0.85f) { player.position.x += elapsed*0.5f; }
 
 	for (int index = 0; index < MAX_BULLETS; ++index) {
 		if (bullets[index].shot) { bullets[index].position.y += elapsed*2.0f; }
@@ -356,6 +368,7 @@ void UpdateGameLevel(float elapsed) {
 		for (size_t index2 = 0; index2 < enemies[index].size(); ++index2) {
 			if (!enemies[index][index2].shot) {
 				restart += 1;
+				if (enemies[index][index2].position.y <= player.position.y + player.size.y / 2) { death += 1; }
 				for (int index3 = 0; index3 < MAX_BULLETS; ++index3) {
 					if (bullets[index3].shot) {
 						if (bullets[index3].position.x <= enemies[index][index2].position.x) {
@@ -384,7 +397,7 @@ void UpdateGameLevel(float elapsed) {
 		}
 	}
 
-	if (restart == 0) { state = 2; }
+	if (restart == 0 || death != 0) { state = 2; }
 
 	for (size_t index = 0; index < enemies.size(); ++index) {
 		for (size_t index2 = 0; index2 < enemies[index].size(); ++index2) {
@@ -471,9 +484,6 @@ void ProcessGameOverInput() {
 		if (event.type == SDL_QUIT || event.type == SDL_WINDOWEVENT_CLOSE || event.key.keysym.scancode == SDL_SCANCODE_ESCAPE) {
 			done = true;
 		}
-		else if (event.key.keysym.scancode == SDL_SCANCODE_SPACE) {
-			state = 1;
-		}
 	}
 }
 
@@ -509,6 +519,9 @@ void ProcessInput() {
 			break;
 		case STATE_GAME_LEVEL:
 			ProcessGameLevelInput();
+			break;
+		case STATE_GAME_OVER:
+			ProcessGameOverInput();
 			break;
 	}
 }
