@@ -1,0 +1,23 @@
+﻿  Homework 5.cpp
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(213): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(254): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(271): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(274): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(300): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(317): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(340): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(348): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(458): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(535): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(536): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(540): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(541): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(545): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 5.cpp(546): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb (Full PDB)
