@@ -1,0 +1,5 @@
+﻿  Homework 6.cpp
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 6.cpp(197): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\homework 6.cpp(509): warning C4804: '<=': unsafe use of type 'bool' in operation
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb (Full PDB)
