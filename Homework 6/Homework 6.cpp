@@ -425,7 +425,7 @@ bool readEntityData(std::ifstream &stream) {
 }
 
 void drawLevel() {
-	ifstream infile("Homework 4.txt");
+	ifstream infile("Homework 6.txt");
 	string line;
 	while (getline(infile, line)) {
 		if (line == "[header]") {
