@@ -1,0 +1,34 @@
+﻿  Level_With_Snow.cpp
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(217): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(394): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(410): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(880): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(884): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(885): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(888): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(952): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(966): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(970): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(971): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(974): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(986): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(990): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(991): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(994): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(995): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1017): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1021): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1022): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1025): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1042): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1058): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1062): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1063): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1066): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1141): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1286): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1459): warning C4018: '<': signed/unsigned mismatch
+c:\users\mp368\cs3113\project_template\windows\nyucodebase\nyucodebase\level_with_snow.cpp(1480): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\mp368\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb (Full PDB)
